@@ -1,0 +1,19 @@
+{
+  "name": "es-caller",
+  "version": "0.0.1",
+  "description": "A tiny node-app to call ES",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ojvind/es-caller.git"
+  },
+  "author": "Öjvind Otterbjörk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ojvind/es-caller/issues"
+  },
+  "homepage": "https://github.com/Ojvind/es-caller#readme"
+}
