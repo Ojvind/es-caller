@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Ojvind/es-caller/issues"
   },
-  "homepage": "https://github.com/Ojvind/es-caller#readme"
+  "homepage": "https://github.com/Ojvind/es-caller#readme",
+  "dependencies": {
+    "elasticsearch": "^11.0.1"
+  }
 }
